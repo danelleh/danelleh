@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, visitors! 👋
+
+```js
+const danelleh = {
+  pronouns: "she" | "her"
+  }
+```
+Can find me:
+- [Instagram](https://instrgram.com/hdanelle_)
 
 <!--
 **danelleh/danelleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
