@@ -1,7 +1,7 @@
 ### Hi, visitors! 👋
 
 ```js
-const Dani = {
+const Dan = {
   pronouns: "she" | "her"
   }
 ```
