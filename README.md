@@ -6,7 +6,7 @@ const Dan = {
   }
 ```
 Can find me:
-- [Instagram](https://instrgram.com/hdanelle_)
+- [Instagram](https://instagram.com/hdanelle_)
 
 <!--
 **danelleh/danelleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
